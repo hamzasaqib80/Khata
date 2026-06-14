@@ -90,19 +90,19 @@ Here is a glimpse of the Khata application interfaces demonstrating the custom U
 
 ### 1. Dashboard Overview
 Provides immediate insights into Net Balances, Recent Expenses, and quick action navigation.
-*(See attached screenshots)*
+![Dashboard Overview](docs/images/screen1.jpg)
 
 ### 2. Expense Addition
 Categorized expense allocation providing parameters for Equal, Percentage, or Exact splits among participants.
-*(See attached screenshots)*
+![Expense Addition](docs/images/screen2.jpg)
 
 ### 3. Member Initialization & Group Info
 Hostel setup providing identity management and connection details (Phone, Room No).
-*(See attached screenshots)*
+![Member Initialization & Group Info](docs/images/screen3.jpg)
 
 ### 4. Mess (Meal) Tracker
 Visual calendar heat-map providing daily meal logs and automated grocery bill computation.
-*(See attached screenshots)*
+![Mess (Meal) Tracker](docs/images/screen4.jpg)
 
 ---
 

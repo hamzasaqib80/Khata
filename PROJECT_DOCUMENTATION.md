@@ -608,7 +608,7 @@ The following screenshots demonstrate the implemented application features:
 
 > *The main dashboard showing the "Your Balance" card with real-time Net Balance, You Paid, and You Owe figures. Below it are quick-access buttons for Expenses, Meals, and Members, followed by the Recent Expenses list.*
 
-*(Refer to attached screenshot: dashboard.png)*
+![Dashboard](docs/images/screen1.jpg)
 
 Key elements visible:
 - **Your Balance Card**: Shows `Rs. 0` Net Balance, `You Paid: Rs. 270`, `You Owe: Rs. 270`
@@ -621,7 +621,7 @@ Key elements visible:
 
 > *The expense creation form showing the category picker, split type tabs (Equal / Exact / Percentage), and the participant checklist with calculated shares.*
 
-*(Refer to attached screenshot: add_expense.png)*
+![Add Expense](docs/images/screen2.jpg)
 
 Key elements visible:
 - Description and Amount input fields
@@ -635,7 +635,7 @@ Key elements visible:
 
 > *The group info and member list screen showing the user ("Hamza — You") and a second member ("Asad") with their room number and phone number.*
 
-*(Refer to attached screenshot: members.png)*
+![Members](docs/images/screen3.jpg)
 
 Key elements visible:
 - Group Information card (description, currency)
@@ -649,7 +649,7 @@ Key elements visible:
 
 > *The Meal Tracker showing the June 2026 calendar grid, a Monthly Bill Calculator with a grocery input field, and a Daily Meal Logs section at the bottom.*
 
-*(Refer to attached screenshot: mess_tracker.png)*
+![Mess Tracker](docs/images/screen4.jpg)
 
 Key elements visible:
 - Interactive calendar heat-map (Mon–Sun layout)
