@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Khata</string>
+
+    <!-- Navigation Labels -->
+    <string name="label_dashboard">Dashboard</string>
+    <string name="label_expenses">Expenses</string>
+    <string name="label_meals">Meals</string>
+    <string name="label_settlement">Settlement</string>
+    <string name="label_groups">Groups</string>
+    <string name="label_settings">Settings</string>
+
+    <!-- Onboarding -->
+    <string name="onboarding_page1_title">Track Shared Expenses</string>
+    <string name="onboarding_page1_desc">Easily split bills among friends and roommates. No more awkward money conversations.</string>
+    <string name="onboarding_page2_title">Mess Bill Calculator</string>
+    <string name="onboarding_page2_desc">Track daily meals and automatically calculate fair mess bills based on actual attendance.</string>
+    <string name="onboarding_page3_title">Set Up Your Profile</string>
+    <string name="onboarding_next">Next</string>
+    <string name="onboarding_back">Back</string>
+    <string name="onboarding_get_started">Get Started</string>
+
+    <!-- Auth -->
+    <string name="auth_title">Welcome Back</string>
+    <string name="auth_subtitle">Please authenticate to open Khata</string>
+    <string name="auth_biometric_title">Authentication Required</string>
+
+    <!-- Dashboard -->
+    <string name="dashboard_welcome">Welcome, %1$s</string>
+    <string name="dashboard_your_balance">Your Balance</string>
+    <string name="dashboard_you_owe">You owe</string>
+    <string name="dashboard_you_are_owed">You are owed</string>
+    <string name="dashboard_you_paid">You paid</string>
+    <string name="dashboard_settle_up">Settle Up</string>
+    <string name="dashboard_recent_expenses">Recent Expenses</string>
+    <string name="dashboard_see_all">See All</string>
+    <string name="dashboard_no_expenses">No expenses yet</string>
+    <string name="dashboard_add_first_expense">Tap + to add the first expense</string>
+    <string name="dashboard_no_groups">No Groups Yet</string>
+    <string name="dashboard_no_groups_desc">Create a group to start splitting expenses with your roommates.</string>
+    <string name="dashboard_create_group">Create a Group</string>
+
+    <!-- Expenses -->
+    <string name="expense_add_title">Add Expense</string>
+    <string name="expense_description">Description</string>
+    <string name="expense_description_hint">e.g. Groceries, Electricity Bill</string>
+    <string name="expense_amount">Amount</string>
+    <string name="expense_category">Category</string>
+    <string name="expense_split_type">Split Type</string>
+    <string name="expense_participants">Participants</string>
+    <string name="expense_save">Save Expense</string>
+    <string name="expense_paid_by">Paid by %1$s</string>
+
+    <!-- Split Types -->
+    <string name="split_equal">Equal</string>
+    <string name="split_unequal">Unequal</string>
+    <string name="split_percentage">Percentage</string>
+
+    <!-- Categories -->
+    <string name="category_food">Food</string>
+    <string name="category_utilities">Utilities</string>
+    <string name="category_rent">Rent</string>
+    <string name="category_transport">Transport</string>
+    <string name="category_groceries">Groceries</string>
+    <string name="category_other">Other</string>
+
+    <!-- Meals -->
+    <string name="meal_tracker_title">Meal Tracker</string>
+    <string name="meal_log_title">Log Meals</string>
+    <string name="meal_breakfast">Breakfast</string>
+    <string name="meal_lunch">Lunch</string>
+    <string name="meal_dinner">Dinner</string>
+    <string name="meal_grocery_cost">Total Grocery Cost</string>
+    <string name="meal_calculate_bill">Calculate Mess Bill</string>
+    <string name="meal_mess_bill">Mess Bill Calculator</string>
+
+    <!-- Settlement -->
+    <string name="settlement_title">Settle Up</string>
+    <string name="settlement_simplified">Simplified Transactions</string>
+    <string name="settlement_payments_needed">%1$d payment(s) needed to settle all debts</string>
+    <string name="settlement_mark_paid">Mark as Paid</string>
+    <string name="settlement_pay_via">Pay via:</string>
+    <string name="settlement_all_settled">All Settled!</string>
+    <string name="settlement_all_settled_desc">Everyone is square. No pending transactions.</string>
+
+    <!-- Payment Methods -->
+    <string name="payment_cash">Cash</string>
+    <string name="payment_easypaisa">EasyPaisa</string>
+    <string name="payment_jazzcash">JazzCash</string>
+    <string name="payment_bank">Bank Transfer</string>
+
+    <!-- Groups -->
+    <string name="group_create_title">Create Group</string>
+    <string name="group_name">Group Name</string>
+    <string name="group_name_hint">e.g. Hostel Room A-12</string>
+    <string name="group_description">Description (Optional)</string>
+    <string name="group_currency">Currency</string>
+    <string name="group_create_button">Create Group</string>
+    <string name="group_members">%1$d members</string>
+
+    <!-- Settings -->
+    <string name="settings_title">Settings</string>
+    <string name="settings_security">Security</string>
+    <string name="settings_biometric">Biometric Authentication</string>
+    <string name="settings_biometric_desc">Use fingerprint or face unlock to open Khata</string>
+    <string name="settings_appearance">Appearance</string>
+    <string name="settings_system_theme">Follow System Theme</string>
+    <string name="settings_dark_mode">Dark Mode</string>
+    <string name="settings_about">About</string>
+    <string name="settings_privacy_policy">Privacy Policy</string>
+    <string name="settings_licenses">Open Source Licenses</string>
+
+    <!-- Common -->
+    <string name="common_loading">Loading…</string>
+    <string name="common_error">Something went wrong. Please try again.</string>
+    <string name="common_retry">Retry</string>
+    <string name="common_cancel">Cancel</string>
+    <string name="common_save">Save</string>
+    <string name="common_delete">Delete</string>
+    <string name="common_confirm">Confirm</string>
+    <string name="common_select_currency">Select Currency</string>
+    <string name="common_total">Total</string>
+
+    <!-- Currencies -->
+    <string name="currency_pkr">Pakistani Rupee</string>
+    <string name="currency_usd">US Dollar</string>
+    <string name="currency_eur">Euro</string>
+    <string name="currency_gbp">British Pound</string>
+    <string name="currency_sar">Saudi Riyal</string>
+    <string name="currency_aed">UAE Dirham</string>
+</resources>

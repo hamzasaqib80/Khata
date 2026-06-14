@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">کھاتہ</string>
+
+    <!-- Navigation Labels -->
+    <string name="label_dashboard">ڈیش بورڈ</string>
+    <string name="label_expenses">اخراجات</string>
+    <string name="label_meals">کھانا</string>
+    <string name="label_settlement">حساب کتاب</string>
+    <string name="label_groups">گروہ</string>
+    <string name="label_settings">ترتیبات</string>
+
+    <!-- Dashboard -->
+    <string name="dashboard_you_owe">آپ کو دینا ہے</string>
+    <string name="dashboard_you_are_owed">آپ کو ملنا ہے</string>
+    <string name="dashboard_settle_up">حساب کریں</string>
+    <string name="dashboard_recent_expenses">حالیہ اخراجات</string>
+
+    <!-- Meals -->
+    <string name="meal_breakfast">ناشتہ</string>
+    <string name="meal_lunch">دوپہر کا کھانا</string>
+    <string name="meal_dinner">رات کا کھانا</string>
+    <string name="meal_mess_bill">مس بل</string>
+
+    <!-- Settlement -->
+    <string name="settlement_title">حساب کتاب</string>
+    <string name="settlement_all_settled">سب برابر ہے!</string>
+
+    <!-- Payment Methods -->
+    <string name="payment_cash">نقد</string>
+
+    <!-- Groups -->
+    <string name="group_create_title">نیا گروہ</string>
+
+    <!-- Common -->
+    <string name="common_cancel">منسوخ</string>
+    <string name="common_save">محفوظ کریں</string>
+</resources>
