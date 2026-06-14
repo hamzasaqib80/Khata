@@ -15,9 +15,10 @@
 | **Department** | [Your Department] |
 | **Institution** | [Your University Name] |
 | **Supervisor** | [Supervisor's Name] |
+| **Supervisor** | Mam Wajeeha Azmat |
 | **Submission Date** | June 2026 |
-| **GitHub Repository** | [Insert Link Here] |
-| **APK File** | Attached / [Insert Download Link] |
+| **GitHub Repository** | [https://github.com/hamzasaqib80/Khata](https://github.com/hamzasaqib80/Khata) |
+| **APK File** | [Direct Download (v1.0.0)](https://github.com/hamzasaqib80/Khata/releases/download/v1.0.0/app-debug.apk) |
 
 ---
 
@@ -779,6 +780,6 @@ The project provided hands-on experience with production-level Android architect
 
 *This documentation was prepared as part of the academic project submission for [Course Name], [Semester], [University Name].*
 
-*All source code is original work. GitHub Repository: [Insert Link]*
+*All source code is original work. GitHub Repository: [https://github.com/hamzasaqib80/Khata](https://github.com/hamzasaqib80/Khata)*
 
 ---

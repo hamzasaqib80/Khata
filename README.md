@@ -1,10 +1,10 @@
 # Khata: Real-Time Decentralized Financial Ledger and Mess Tracker
 
 ### Academic Project Documentation
-**Supervised by:** [Professor's Name]  
-**Submitted by:** [Your Name / Group Name]  
-**Repository Link:** [Insert GitHub Link Here]  
-**Latest Release (APK):** [Insert APK Link Here or refer to attached file]
+**Supervised by:** Mam Wajeeha Azmat 
+**Submitted by:** Muhammad Hamza Saqib  
+**Repository Link:** [https://github.com/hamzasaqib80/Khata](https://github.com/hamzasaqib80/Khata)  
+**Latest Release (APK):** [Direct Download APK](https://github.com/hamzasaqib80/Khata/releases/download/v1.0.0/app-debug.apk)
 
 ---
 
@@ -130,4 +130,4 @@ The compiled Debug APK is provided alongside this documentation to sideload onto
 * **OCR Receipt Scanning:** Leveraging ML Kit to scan grocery receipts automatically into the ledger.
 
 ---
-*Developed with dedication for the Final Project Submission.*
+*Developed By Muhammad Hamza Saqib.*
